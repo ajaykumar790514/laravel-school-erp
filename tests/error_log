@@ -1,0 +1,8 @@
+[09-Jul-2024 13:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home2/afschmow/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/afschmow/public_html/tests/TestCase.php on line 7
+[09-Jul-2024 13:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home2/afschmow/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/afschmow/public_html/tests/TestCase.php on line 7

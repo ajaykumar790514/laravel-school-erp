@@ -1,0 +1,2 @@
+[08-Aug-2023 06:51:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home2/afschmow/public_html/public/ckfinder/core/connector/php/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 06:53:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home2/afschmow/public_html/public/ckfinder/core/connector/php/vendor/composer/platform_check.php on line 24
